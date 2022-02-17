@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 500px;
+    border: 2px solid gray;
+    border-radius: 2px;
+    margin: 10px auto;
+}
+
+.card-header {
+    height: 100px;
+    background-color: aquamarine;
+
+}
+
+.card-body {
+    height: 150px;
+    padding: 40px;
+}
+
+.img-user {
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+
+.icon-maps {
+    width: 10px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin-top: 15px ;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 0px;
+}
+.icon-config {
+    width: 10px; 
+}
